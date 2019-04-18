@@ -12,6 +12,8 @@
     z-index: 997;
 }
 
-.page-footer {
-    
+@media (max-width: 576px) {
+    .brand-logo {
+        font-size: 1.1em !important;
+    }
 }
